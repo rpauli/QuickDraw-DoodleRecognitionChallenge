@@ -1,4 +1,4 @@
-# QuickDraw-DoodleRecognitionChallenge
+# [QuickDraw-DoodleRecognitionChallenge](https://www.kaggle.com/guntherthepenguin/fastai-resnet18-color-coded-and-focalloss)
 
 The challenge provided a dataset of doodles from Quick Draw! with their respective labels.
 My approach was to use a standard deep learning architecture as the resnet18 and initially use just grayscale images.
